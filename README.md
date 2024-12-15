@@ -1,0 +1,16 @@
+# Paper List for Instruction Tuning Data Selection
+1. [NIPS2022][Generating training data
+with language models: Towards zero-shot language understanding](https://proceedings.neurips.cc/paper_files/paper/2022/hash/0346c148ba1c21c6b4780a961ea141dc-Abstract-Conference.html)
+2. [EMNLP2022][Progen: Progressive zero-shot dataset generation via in-context feedback](https://arxiv.org/abs/2210.12329)
+3. [NIPS2023][When less is more: Investigating data pruning for pretraining llms at scale](https://openreview.net/forum?id=XUIYn3jo5T)
+4. [ICML2024][Curated llm: Synergy of llms and data curation for tabular augmentation in ultra low-data regimes](https://openreview.net/forum?id=9cG1oRnqNd)
+5. [NAACL2024][from quantity to quality: Boosting llm performance with self-guided data selection for instruction tuning](https://arxiv.org/abs/2308.12032)
+6. [ACL2024][Superfiltering: Weak-to-strong data filtering for fast instruction-tuning](https://arxiv.org/abs/2402.00530)
+7. [ICLR2024][Alpagasus:Training a better alpaca with fewer data](https://openreview.net/forum?id=FdVXgSJhvz)
+8. [ICLR2024][# instag: Instruction tagging for analyzing supervised fine-tuning of large language models](https://openreview.net/forum?id=pszewhybU9)
+9. [ICLR2024][What makes good data for alignment? a comprehensive study of automatic data selection in instruction tuning](https://arxiv.org/abs/2312.15685)
+10. [ICML2024][Less: Selecting influential data for targeted instruction tuning](https://arxiv.org/abs/2402.04333)
+11. [ICLR2024][Self-alignment with instruction backtranslation](https://arxiv.org/abs/2308.06259)
+12. [ACL2024][One shot learning as instruction data prospector for large language models.](https://arxiv.org/abs/2312.10302)
+13. [EMNLP2024][Clustering and ranking:Diversity-preserved instruction selection through expert-aligned quality estimation](https://arxiv.org/abs/2402.18191)
+14. [ACL2024][IterSelectTune: An Iterative Training Framework for Efficient Instruction-Tuning Data Selection](https://arxiv.org/abs/2410.13464)
